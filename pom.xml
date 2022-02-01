@@ -137,9 +137,19 @@
                 <artifactId>maven-pmd-plugin</artifactId>
                 <version>3.14.0</version>
             </plugin>
+            
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-changelog-plugin</artifactId> 
+            </plugin>
    
  </plugins>
 </reporting>
+
+<scm>
+        <connection>scm:git:C:\Users\hugol\ECLIPSE ESIR2/MVN_a_part1</connection>
+        <url>https://github.com/hutien/TP1.git</url>
+    </scm>
 
 
 
