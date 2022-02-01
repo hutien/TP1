@@ -7,5 +7,6 @@ package MVN_g_part1.MVN_a_part1;
 public class App {	//ERREUR CORRIGée, espace entre parenthèse et string
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("SALUT!");
     }
 }
