@@ -8,5 +8,6 @@ public class App {	//ERREUR CORRIGée, espace entre parenthèse et string
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("TEST BRANCHE2!");//erreur
+        System.out.println("TEST BRANCHE2!");//erreur
     }
 }
