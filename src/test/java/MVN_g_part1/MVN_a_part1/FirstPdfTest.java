@@ -1,6 +1,6 @@
 package MVN_g_part1.MVN_a_part1;
 
-import static org.junit.Assert.*;
+
 
 import junit.framework.Test;
 import junit.framework.TestCase;
